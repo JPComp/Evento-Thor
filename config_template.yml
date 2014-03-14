@@ -1,0 +1,15 @@
+RestoreOriginalInventoryOnDeath: true
+ClearInventoryOnQuit: false
+RestoreOriginalInventoryOnQuit: false
+RaiosPorVez: 5
+TempoEntreNovosRaios: 3
+Premio: 10000
+Entrada: ""
+Saida: ""
+Kit:
+  Use: false
+  Helmo: Nenhum
+  Peito: Nenhum
+  Calca: Nenhum
+  Botas: Nenhum
+  Items: []

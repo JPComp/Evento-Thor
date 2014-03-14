@@ -1,0 +1,11 @@
+name: EventoThor
+version: 1.1.1 Beta
+main: br.AtomGamers.Thor.EventoThor
+description: Evento Thor automático com comandos no Console.
+website: www.AtomGamers.com
+softdepend: [Vault]
+author: [AtomGamers]
+commands:
+  eventothor:
+    description: Comandos do Plugin.
+    aliases: [et, ethor, eventot, eventthor]
